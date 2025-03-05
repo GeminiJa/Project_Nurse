@@ -40,7 +40,9 @@ function Navbar() {
         <span>USER</span>
       </div>
     </nav>
+    
   );
 }
 
 export default Navbar;
+

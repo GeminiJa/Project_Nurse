@@ -98,7 +98,7 @@ function SummaryPage() {
         <div className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
           <div className="bg-white rounded-lg p-6 w-80 flex flex-col items-center">
             <img
-              src="/success-icon.png" // Use the correct image path
+              src="/success.png" // Use the correct image path
               alt="Success"
               className="w-24 h-24 mb-4"
             />
