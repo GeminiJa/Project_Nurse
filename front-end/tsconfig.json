@@ -25,6 +25,6 @@
     }
     
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", ".next/types/app/student/student_1/page.ts", ".next/types/cache-life.d.tsx", ".next/types/app/page.tsx", ".next/types/app/layout.tsx", ".next/types/app/student/student_2/page.tsx", ".next/types/app/student/student_2/student_2_3/page.tsx", ".next/types/app/student/student_2/student_2_2/page.tsx", ".next/types/app/student/student_2/student_2_1/page.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", ".next/types/app/student/student_1/page.tsx", ".next/types/cache-life.d.tsx", ".next/types/app/page.tsx", ".next/types/app/layout.tsx", ".next/types/app/student/student_2/page.tsx", ".next/types/app/student/student_2/student_2_3/page.tsx", ".next/types/app/student/student_2/student_2_2/page.tsx", ".next/types/app/student/student_2/student_2_1/page.tsx"],
   "exclude": ["node_modules"]
 }
